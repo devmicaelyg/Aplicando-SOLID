@@ -1,6 +1,8 @@
 
 ## Sistema de Gerenciamento de Pedidos para Cafeteria
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 ### Descrição Geral
 
 Este repositório contém um **sistema de gerenciamento de pedidos para uma cafeteria**, desenvolvido com o objetivo de organizar o cadastro de produtos e facilitar o gerenciamento dos pedidos de clientes. O projeto foi criado com foco no estudo e aplicação dos princípios SOLID de design de software, permitindo uma comparação entre uma implementação básica sem SOLID e outra com SOLID aplicado.
